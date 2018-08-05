@@ -1,0 +1,5 @@
+Credentials cache: API:F4B5F7D7-74C8-48B5-9753-0BC9E61E03D7
+        Principal: luwargni@42.FR
+
+  Issued                Expires               Principal
+Jul  2 08:29:08 2018  Jul  9 08:29:08 2018  krbtgt/42.FR@42.FR
